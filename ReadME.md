@@ -1,7 +1,9 @@
 
 #  Simple Terminal Tool for Viper
 
-This repository provides a simple terminal interface for Viper, utilizing USB communication on Linux OS. It includes the necessary components to compile and link the system for usage.
+This repository provides a simple terminal interface for Viper, utilizing USB communication on **Linux OS**. 
+
+It includes the necessary components to compile and link the system for usage.
 
 ## Additional Info
 
@@ -11,7 +13,7 @@ The official SDK web source provided by Polhemus can be found at [HERE](https://
 
 You may want to check out the VPcmdIF web documentation and VPcmdIF libraries (first download link), which include a command-line software that utilizes the .dll dependency to extract data from Viper.
 
-### For Linux
+### For Linux User
 
 Additionally, my modified repository, which publishes POSE data as a ROS2 topic, can be found at [this repo](https://github.com/enhanced-telerobotics/viper_cpp). This version has only been tested on ROS 2 Humble with Ubuntu 22.04.
 
@@ -56,4 +58,4 @@ After compilation, you can run the `vpr_simp_term` executable to interact with t
 
 ## License
 
-MIT
+No license, public avaliable.
