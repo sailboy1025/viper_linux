@@ -1,0 +1,4 @@
+*.o
+vpr_simp_term
+mmake
+viper_simple_term
